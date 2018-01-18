@@ -1,2 +1,2 @@
-this is the read me
-this is my second line
+this is my read me
+\n this is my second line
